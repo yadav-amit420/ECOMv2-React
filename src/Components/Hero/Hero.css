@@ -1,6 +1,6 @@
 .hero{
-	height: 100vh;
-	background: linear-gradient(180deg, #fde1ff, #e1ffea 60%);
+	height: 90vh;
+	background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
 	display: flex;
 }
 
@@ -9,7 +9,7 @@
 	flex-direction: column;
 	justify-content: center;
 	gap: 20px;
-	padding-left: 180px;
+	padding-left: 150px;
 	line-height: 1.1;
 }
 
@@ -54,7 +54,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin:0 auto
+	margin:10px auto;
 }
 
 .hero-right img{
